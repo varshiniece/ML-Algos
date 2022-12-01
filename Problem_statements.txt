@@ -1,0 +1,16 @@
+1) Delivery_time -> Predict delivery time using sorting time  - Model has to be prepared in both excel and python
+2) Salary_hike -> Build a prediction model for Salary_hike - - Model has to be prepared in both excel and python
+
+------------------------------------------------------------
+
+Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using Python.
+The notebook (Jupyter has to be downlaoded in an html format and has to be uplaoded in the Github.)
+
+Submission - 
+
+1. Notebook (Jupyter Files - HTML)
+2. Excel Files where the model is prepared
+3. Predicted output csv for any 3 values to be precited and save through python for both the data.
+
+The submission has to be mailed in - pbose@topmentor.in (subject Line - Linear Regression  - Name of yours  - Assignment -1 and 2)
+Do a professional mail to submit the assignment.
